@@ -1,0 +1,5 @@
+F:\project\Quiz\Quiz\bin\Quiz.dll
+F:\project\Quiz\Quiz\bin\Quiz.pdb
+F:\project\Quiz\Quiz\obj\Debug\ResolveAssemblyReference.cache
+F:\project\Quiz\Quiz\obj\Debug\Quiz.dll
+F:\project\Quiz\Quiz\obj\Debug\Quiz.pdb
